@@ -1,1 +1,9 @@
-/* Grid Mobile Styles */
+@@media {
+  .grid {
+    flex-direction: column;
+  }
+  .gridItem {
+    width:100%;
+    margin:0;
+  }
+}
